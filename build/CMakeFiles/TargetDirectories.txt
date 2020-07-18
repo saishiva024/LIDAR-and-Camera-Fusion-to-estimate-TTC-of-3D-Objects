@@ -1,3 +1,0 @@
-/home/workspace/SFND_3D_Object_Tracking/build/CMakeFiles/rebuild_cache.dir
-/home/workspace/SFND_3D_Object_Tracking/build/CMakeFiles/3D_object_tracking.dir
-/home/workspace/SFND_3D_Object_Tracking/build/CMakeFiles/edit_cache.dir
